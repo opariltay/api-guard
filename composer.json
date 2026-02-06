@@ -21,9 +21,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
-        "illuminate/support": "^5.3|^6.0",
-        "illuminate/database": "^5.3|^6.0",
+        "php": ">=7.2.5",
+        "illuminate/support": "^5.3|^6.0|^7.0",
+        "illuminate/database": "^5.3|^6.0|^7.0",
         "ellipsesynergie/api-response": "*"
     },
     "require-dev": {
